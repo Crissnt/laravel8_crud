@@ -1,6 +1,6 @@
 @extends('student.layout')
-
 @section('content')
+
     <div class="row">
         <div class="col-lg-11">
             <h2>Add New Student</h2>
